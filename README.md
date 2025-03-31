@@ -1,6 +1,5 @@
 # 🚀 Shreenath Jha | Builder @ fuNCERT.ai | IIT Delhi  
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" height="200px">
 
 Hey there! I'm **Shreenath**, an entrepreneur, problem-solver, and lifelong learner. Currently building **fuNCERT.ai**—a gamified, AI-driven edtech platform in collaboration with **Physics Wallah** to make NCERT learning **fun, immersive, and hyper-personalized**.  
 
